@@ -1,0 +1,53 @@
+ved ikke hvordan man gør det her :-)
+
+Problem definition - Regression problem
+
+ - To what degree does the weight, horsepower and model year affect the kilometres per liter (KPL)?
+ - Can we predict an imaginary cars' expected KPL?
+ - By tuning the different values, which one has the biggest impact on the KPL value?
+
+
+mpg (miles per gallon):
+
+1. How does the variability in miles per gallon (mpg) correlate with different car characteristics?
+2. Is it possible to accurately predict the miles per gallon (mpg) for a given car based solely on its specifications?
+
+cylinders:
+
+1. What is the impact of the number of cylinders on the fuel efficiency (mpg) of a car?
+2. Can we reliably estimate miles per gallon (mpg) based on the cylinder count of a car?
+
+displacement:
+
+1. How does the engine displacement affect the fuel efficiency (mpg) of a car?
+2. Is there a discernible relationship between engine displacement and miles per gallon (mpg)?
+
+horsepower:
+
+1. How does horsepower influence the fuel efficiency (mpg) of a car?
+2. To what extent can we predict miles per gallon (mpg) based on the horsepower of a car?
+
+weight:
+
+1. What impact does the weight of a car have on its fuel efficiency (mpg)?
+2. Is there a correlation between the weight of a car and its miles per gallon (mpg)?
+
+acceleration:
+
+1. How does acceleration affect the fuel efficiency (mpg) of a car?
+2. Can we predict miles per gallon (mpg) based on the acceleration of a car?
+
+model year:
+
+1. How has the fuel efficiency (mpg) evolved over time (model year)?
+2. Is there a discernible trend in miles per gallon (mpg) based on the model year of a car?
+
+origin:
+
+1. Does the origin of a car impact its fuel efficiency (mpg)?
+2. Is there a relationship between the origin of a car and its miles per gallon (mpg)?
+
+car name:
+
+1. How does the car model's name influence its fuel efficiency (mpg)?
+2. Can we predict miles per gallon (mpg) based on the car's name or model?
